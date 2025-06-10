@@ -1,5 +1,5 @@
 {
-    "version": "7.11",
+    "version": "7.01",
     "description": "Decompress RAR files.",
     "homepage": "https://www.rarlab.com/",
     "license": {
@@ -8,8 +8,8 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://raw.githubusercontent.com/ScoopInstaller/Binary/master/unrar/7.11/UnRAR_x64.exe#/UnRAR.exe",
-            "hash": "90c2b2107a22ea8eb3593a155c4c0007b18b1ba552bf65f963c040038da248be"
+            "url": "https://raw.githubusercontent.com/ScoopInstaller/Binary/master/unrar/7.01/UnRAR_x64.exe#/UnRAR.exe",
+            "hash": "e51021f6cb20efbd2169f2a2da10ce1abca58b4f5f30fbf4bae931e4ecaac99b"
         }
     },
     "bin": "UnRAR.exe",
